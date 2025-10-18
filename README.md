@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujala6251&label=Profile%20views&color=0e75b6&style=flat" alt="ujala6251" /> </p>
 
-- project [News App](heartfelt-squirrel-376649.netlify.app)
+- project [News App](https://heartfelt-squirrel-376649.netlify.app)
 
 - my first project [todo App](https://github.com/Ujala6251/React.js-)
 
